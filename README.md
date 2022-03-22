@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+#### From Vietnam
+
+I'm Thuan, a software developer from Vietnam
+
+#### Works
+- Software developer at [DEHA Vietnam](https://deha-soft.com/), Vietnam
+
+### Social Networks
+
+- [https://github.com/thuanpt](https://github.com/thuanpt)
+- [https://twitter.com/thuandev](https://twitter.com/thuandev)
+- [https://www.linkedin.com/in/thuanpt](https://www.linkedin.com/in/thuanpt)
+- [https://thuan.dev](https://thuan.dev)
+
+
 <!--
 **thuanpt/thuanpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
