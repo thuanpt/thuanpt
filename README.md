@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#### From Vietnam
+#### From Vietnam 🇻🇳 
 
-I'm Thuan, a software developer from Vietnam
+I'm Thuan Pham, a software developer from Vietnam 🇻🇳 
 
 #### Works
 - Software developer at [DEHA Vietnam](https://deha-soft.com/), Vietnam
